@@ -1,8 +1,11 @@
 Hello world
 Hello world 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 Some more content
+=======
+>>>>>>> 74db62cb610de05a15d1fd82ab1ceb530f66fc7d
 =======
 >>>>>>> 74db62cb610de05a15d1fd82ab1ceb530f66fc7d
